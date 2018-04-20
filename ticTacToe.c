@@ -4,7 +4,7 @@ int checkRows(char arr[][3], int play); //declaration to check rows of the board
 
 int checkColumns(char arr[][3], int play); //declaration to check columns of the board
 
-int checkDiagonals(char arr[][3], int play); //declaratioin to check diagonals of the board
+int checkDiagonals(char arr[][3], int play); //declaration to check diagonals of the board
 
 int checkFull(char arr[][3]); //checks if the board is filled up
 
